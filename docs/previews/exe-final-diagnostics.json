@@ -1,0 +1,27 @@
+{
+  "frozen": true,
+  "checks": {
+    "config_present": true,
+    "app_root": "C:\\Users\\jrmym\\Documents\\ChatGPT\\VelvetStream\\dist\\VelvetStream",
+    "ffmpeg_path": "C:\\Users\\jrmym\\Documents\\ChatGPT\\VelvetStream\\dist\\VelvetStream\\_internal\\bin\\ffmpeg.EXE",
+    "ffmpeg_runs": true,
+    "ffprobe_path": "C:\\Users\\jrmym\\Documents\\ChatGPT\\VelvetStream\\dist\\VelvetStream\\_internal\\bin\\ffprobe.EXE",
+    "ffprobe_runs": true,
+    "node_path": "C:\\Users\\jrmym\\Documents\\ChatGPT\\VelvetStream\\dist\\VelvetStream\\_internal\\bin\\node.EXE",
+    "node_runs": true,
+    "fpcalc_path": "C:\\Users\\jrmym\\Documents\\ChatGPT\\VelvetStream\\dist\\VelvetStream\\_internal\\bin\\fpcalc.EXE",
+    "fpcalc_runs": true,
+    "loopback_count": 9,
+    "no_hook_cancellation": true,
+    "cancel_total_seconds": 0.187,
+    "child_processes_remaining": 0,
+    "flac_subtype": "PCM_24",
+    "player_duration_ms": 3000,
+    "player_play": true,
+    "player_seek_ms": 1000,
+    "player_pause": true,
+    "player_stop": true,
+    "screenshot": "C:\\Users\\jrmym\\Documents\\ChatGPT\\VelvetStream\\docs\\previews\\exe-final-diagnostics.png"
+  },
+  "passed": true
+}

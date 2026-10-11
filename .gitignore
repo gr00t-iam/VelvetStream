@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+*.pyc
+.cache*
+*.part
+.env
+*.env
+bin/
+build/
+dist/
+*.spec
+*.zip
+release/
